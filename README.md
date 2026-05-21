@@ -42,8 +42,6 @@
 
 ## 📈 Recent Projects
 
-## 📈 Recent Projects
-
 - **[Student Manager]** - Full-stack student management app with CRUD, search, filter, and sorting features (React, Node.js, MongoDB)  
   - Live Link: https://student-manager-sayak.netlify.app/  
   - Repo Link: https://github.com/sayak53/Student-Management-System

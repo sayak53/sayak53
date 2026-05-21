@@ -11,7 +11,7 @@
 🧠 Practicing problem solving to improve my logic
 🎯 Goal: Become a skilled developer and land a good tech role
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 - **Languages:** JavaScript, Python, Java, TypeScript
 - **Frontend:** React, Vue.js, HTML/CSS
@@ -19,7 +19,7 @@
 - **Tools & Platforms:** Git, Docker, GitHub, VS Code
 - **Other:** REST APIs, Database Design
 
-## 🎯 What I'm Interested In
+# 🎯 What I'm Interested In
 
 - Building full-stack web applications
 - Open-source development
@@ -33,21 +33,21 @@
 - Learning how backend works (APIs, databases)
 - Improving consistency in coding
 
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
 - **GitHub:** [github.com/sayak53](https://github.com/sayak53)
 - **LinkedIn:** [https://www.linkedin.com/in/sayak-chakraborty-b5403a32a/]
 - **Twitter:** [@SayakCh29478126]
 - **Email:** [sayakchakraborty928@gmail.com]
 
-## 📈 Recent Projects
+# 📈 Recent Projects
 
 - **[Student Manager]** - Full-stack student management app with CRUD, search, filter, and sorting features (React, Node.js, MongoDB)
                         - Live Link:https://student-manager-sayak.netlify.app/ - Repo Link:https://github.com/sayak53/Student-Management-System                   
 - **[Project Name]** - Brief description of what it does
 - **[Project Name]** - Brief description of what it does
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
 📌 A Bit About Me
 

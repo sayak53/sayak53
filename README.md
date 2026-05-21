@@ -42,9 +42,16 @@
 
 ## 📈 Recent Projects
 
-- **[Student Manager]** - Full-stack student management app with CRUD, search, filter, and sorting features (React, Node.js, MongoDB)
-                        - Live Link:https://student-manager-sayak.netlify.app/ - Repo Link:https://github.com/sayak53/Student-Management-System                   
-- **[Project Name]** - Brief description of what it does
+## 📈 Recent Projects
+
+- **[Student Manager]** - Full-stack student management app with CRUD, search, filter, and sorting features (React, Node.js, MongoDB)  
+  - Live Link: https://student-manager-sayak.netlify.app/  
+  - Repo Link: https://github.com/sayak53/Student-Management-System
+
+- **[Resume-CV-Analyzer]** - AI-powered resume analyzer with resume parsing, match scoring, experience estimation, and AI-style feedback (React, FastAPI, Tailwind CSS)  
+  - Live Link: https://my-resume-cv-analyzer.netlify.app/  
+  - Repo Link: https://github.com/sayak53/Resume-CV-Analyzer
+
 - **[Project Name]** - Brief description of what it does
 
 ## ⚡ Fun Fact

@@ -53,7 +53,6 @@
 - **[Coffee Book]** - Coffee discovery web application with category browsing, detailed coffee information, sorting by popularity and rating, favorites management, and responsive design (React, Vite, Tailwind CSS, DaisyUI)
 
   - Live Link: https://amazing-coffee-book.netlify.app/
-
   - Repo Link: https://github.com/sayak53/coffee-book
 
 ## ⚡ Fun Fact
